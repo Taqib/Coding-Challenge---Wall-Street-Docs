@@ -33,7 +33,7 @@ This project requires a thorough understanding of configuration management, cont
 
 ## Documentation
 
-[Ansible Problem & It's Solution](https://linktodocumentation)
+[Ansible Problem & It's Solution](https://github.com/Taqib/Coding-Challenge---Wall-Street-Docs?tab=readme-ov-file)
 1) Display all Ansible configurations for a host:
 
 ans: 
@@ -226,7 +226,7 @@ This design leverages automation (Ansible) to maintain a consistent and highly r
 
 
 
-[Docker & Kubernets](https://linktodocumentation)
+[Docker & Kubernets](https://github.com/Taqib/Coding-Challenge---Wall-Street-Docs?tab=readme-ov-file)
 
 1. Docker Compose for an Nginx Server:
 
@@ -358,7 +358,7 @@ Conclusion:
 The best approach depends on whether increasing the memory limit is acceptable or if the Java application needs more efficient memory usage. Start by monitoring the app’s memory consumption, either by increasing the limit or fine-tuning the JVM settings.
 
 
-[HELM](https://linktodocumentation)
+[HELM](https://github.com/Taqib/Coding-Challenge---Wall-Street-Docs?tab=readme-ov-file)
 
 *** After try to create the elastisearch environment by running  helm commnd i got following error:
 
@@ -381,7 +381,7 @@ Error: 1 chart(s) linted, 1 chart(s) failed
 Note: I am not used to helm & also have very little knowledge on this tech.
 
 
-[Metrics](https://linktodocumentation)
+[Metrics](https://github.com/Taqib/Coding-Challenge---Wall-Street-Docs?tab=readme-ov-file)
 
 1) How Prometheus Works:
 Ans: Prometheus is an open-source monitoring and alerting toolkit designed for reliability and scalability. It collects metrics from targets by scraping HTTP endpoints at specified intervals. Prometheus stores this data in a time-series database, where metrics are identified by a name and key-value pairs (labels).
@@ -484,7 +484,7 @@ The architecture can be broken into key components:
 
 
 
-[Databases](https://linktodocumentation)
+[Databases](https://github.com/Taqib/Coding-Challenge---Wall-Street-Docs?tab=readme-ov-file)
 
 Suggested environment: Cassandra 4.0 or above, mongo 4.4.0 or above
 
