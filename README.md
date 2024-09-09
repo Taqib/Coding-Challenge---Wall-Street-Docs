@@ -378,7 +378,7 @@ helm lint elasticsearch/
 
 Error: 1 chart(s) linted, 1 chart(s) failed
 ```
-Note: I am not used to helm & also have very little knowledge on this tech.
+Note: I am not used to helm & also have very little knowledge on this tech. I tried my best but couldn't figure out as i am super busy with client project so i got very little time after office hour.So please accept my appologies in this regards.
 
 
 [Metrics](https://github.com/Taqib/Coding-Challenge---Wall-Street-Docs?tab=readme-ov-file)
