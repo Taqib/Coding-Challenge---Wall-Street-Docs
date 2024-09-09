@@ -560,6 +560,13 @@ Check the sharding status to verify if the collection is being sharded and balan
 This will show the shard distribution and status for ```sanfrancisco.company_name```.
 
 6. Monitor the Balancing Process:
+
+Once the sharding is set up, MongoDB’s balancer should start distributing data across the shards. To ensure this, you can start the balancer if needed:
+
+sh.startBalancer()
+
+You can check the balancer status:
+sh.getBalancerState()   
 MongoDB will start balancing the data across the shards. You can monitor the balancer's progress using:
 
 ```bash```
